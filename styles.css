@@ -1,0 +1,42 @@
+body {
+  font-family: Roboto, sans-serif;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #e5e7eb;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  margin-left: auto;
+  padding: 0;
+}
+
+li {
+  margin-right: 16px;
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.header {
+  background-color: #1f2937;
+  display: flex;
+  align-items: center;
+  padding: 8px 250px;
+}
+
+h3 {
+  font-size: 24px;
+  color: #f9faf8;
+  margin-left: 5px;
+}
+
+.hero-img {
+  max-width: 70px;
+  height: auto;
+}
