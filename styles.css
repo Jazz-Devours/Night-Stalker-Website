@@ -178,3 +178,14 @@ button {
 .button-border {
   border: 2px solid white;
 }
+
+.footer {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  background-color: #1f2937;
+  color: #e5e7eb;
+  padding: 50px 10vw;
+  font-weight: bold;
+  font-size: 18px;
+}
