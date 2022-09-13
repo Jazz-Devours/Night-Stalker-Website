@@ -154,3 +154,27 @@ button {
   font-size: 24px;
   align-self: flex-end;
 }
+
+.call-to-action {
+  margin: 100px 10vw 100px;
+  padding: 50px 100px;
+  background-color: #3882f6;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.action-text {
+  color: #e5e7eb;
+}
+
+.action-header {
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}
+
+.button-border {
+  border: 2px solid white;
+}
