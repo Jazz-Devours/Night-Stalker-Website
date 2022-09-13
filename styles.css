@@ -31,7 +31,7 @@ li {
   background-color: #1f2937;
   display: flex;
   align-items: center;
-  padding: 8px 10vw;
+  padding: 8px 15vw;
 }
 
 h1 {
@@ -45,7 +45,7 @@ h2 {
   text-align: center;
   font-size: 32px;
   font-weight: bolder;
-  padding: 50px 10vw;
+  padding: 50px 15vw;
   margin: 0;
 }
 
@@ -70,7 +70,7 @@ h3 {
 
 .hero-body {
   background-color: #1f2937;
-  padding: 100px 10vw 150px;
+  padding: 100px 15vw 150px;
   display: flex;
 }
 
@@ -99,7 +99,7 @@ button {
   display: flex;
   justify-content: center;
   gap: 82px;
-  padding: 0px 10vw 150px;
+  padding: 0px 15vw 150px;
   text-align: center;
 }
 
@@ -132,7 +132,7 @@ button {
 }
 
 .quote-content {
-  padding: 100px 10vw 100px;
+  padding: 100px 15vw 100px;
   background-color: #e5e7eb;
   display: flex;
   flex-direction: column;
@@ -157,7 +157,7 @@ button {
 }
 
 .call-to-action {
-  margin: 100px 10vw 100px;
+  margin: 100px 15vw 100px;
   padding: 50px 100px;
   background-color: #3882f6;
   display: flex;
@@ -186,7 +186,7 @@ button {
   gap: 20px;
   background-color: #1f2937;
   color: #e5e7eb;
-  padding: 50px 10vw;
+  padding: 50px 15vw;
   font-weight: bold;
   font-size: 18px;
 }
