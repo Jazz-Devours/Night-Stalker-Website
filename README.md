@@ -4,3 +4,4 @@ A project to design a webpage from only a template self assigned as part of The 
 A landing-page with an homage to wolves!! May their nature and allure forever remain wild!
 
 All photos used originate from pixabay.com and pexels.com respectively!
+Wolf facts provided by: https://www.konnecthq.com/wolf-facts/

@@ -99,6 +99,7 @@ button {
   justify-content: center;
   gap: 82px;
   padding: 0px 10vw 150px;
+  text-align: center;
 }
 
 .information-img {
@@ -106,6 +107,23 @@ button {
   width: 200px;
   height: 200px;
   border-radius: 16px;
+  background-size: cover;
+}
+
+.img-1 {
+  background-image: url(images/husky-style.jpg);
+}
+
+.img-2 {
+  background-image: url(images/wolf-artistic-white.png);
+}
+
+.img-3 {
+  background-image: url(images/wolf-style.png);
+}
+
+.img-4 {
+  background-image: url(images/Wolf-Moon-Style.jpg);
 }
 
 .figure {
