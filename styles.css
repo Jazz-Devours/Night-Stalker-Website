@@ -129,3 +129,28 @@ button {
 .figure {
   max-width: 200px;
 }
+
+.quote-content {
+  padding: 100px 10vw 100px;
+  background-color: #e5e7eb;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.quote-text {
+  font-size: 36px;
+  font-style: italic;
+  text-align: center;
+  color: #1f2937;
+  font-weight: lighter;
+  width: 800px;
+}
+
+.quote-origin {
+  font-weight: bolder;
+  text-align: right;
+  color: #1f2937;
+  font-size: 24px;
+  align-self: flex-end;
+}
