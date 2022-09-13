@@ -61,10 +61,11 @@ h3 {
 }
 
 .hero-img {
-  flex: 2;
-  min-width: 600px;
-  max-width: 900px;
-  height: 100%;
+  width: 50%;
+  background-image: url(images/wolf-sunset-silhoette-marek-szturc.jpg);
+  background-size: cover;
+  position: relative;
+  height: 300px;
 }
 
 .hero-body {
