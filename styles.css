@@ -5,6 +5,10 @@ body {
   margin: 0;
 }
 
+p {
+  margin: 8px 0;
+}
+
 a {
   text-decoration: none;
   color: #e5e7eb;
@@ -15,10 +19,10 @@ ul {
   display: flex;
   margin-left: auto;
   padding: 0;
+  gap: 16px
 }
 
 li {
-  margin-right: 16px;
   font-size: 18px;
   color: #e5e7eb;
 }
@@ -27,7 +31,14 @@ li {
   background-color: #1f2937;
   display: flex;
   align-items: center;
-  padding: 8px 250px;
+  padding: 8px 10vw;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: bolder;
+  color: #f9faf8;
+  margin: 8px 0;
 }
 
 h3 {
@@ -36,7 +47,40 @@ h3 {
   margin-left: 5px;
 }
 
-.hero-img {
+.logo-img {
   max-width: 70px;
   height: auto;
+}
+
+.hero-img {
+  flex: 2;
+  min-width: 600px;
+  max-width: 900px;
+  height: 100%;
+}
+
+.hero-body {
+  background-color: #1f2937;
+  padding: 100px 10vw 150px;
+  display: flex;
+}
+
+.hero-content {
+  margin-right: 32px;
+  flex: 1;
+}
+
+.hero-text {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+button {
+  background-color: #3882f6;
+  color: #f9faf8;
+  font-size: 18px;
+  padding: 8px 32px;
+  border-radius:8px;
+  border-style: none;
+  font-weight: bold;
 }
